@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CostaGa8
+- 👀 I’m interested in Python, DataScience, Renewable Energy.
+- 🌱 I’m currently learning about these stuff ☝️
+- 💞️ I’m looking to collaborate on DataScience and Renewable Energy.
+- 📫 How to reach me: 
+- E-mail: gabriel.12andrade@hotmail.com
+- Instagram: @gabriel_dade
